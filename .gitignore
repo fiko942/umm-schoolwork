@@ -1,2 +1,4 @@
 DATASET
 venv
+.DS_Store
+**/._*
